@@ -1,0 +1,21 @@
+{
+    "type": "WordDictionary",
+    "Content":
+    [
+        {
+            "word": "a",
+            "meaning":
+            [
+                "the first letter in alphabet",
+                "one"
+            ]
+        },
+        {
+            "word": "b",
+            "meaning":
+            [
+                "the second letter in alphabet"
+            ]
+        }
+    ]
+}
